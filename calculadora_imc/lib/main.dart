@@ -53,7 +53,7 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         title: Text("Calculadora de IMC"),
         centerTitle: true,
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.blueGrey,
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.refresh),
@@ -69,14 +69,14 @@ class _HomeState extends State<Home> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
-              Icon(Icons.person, size: 120, color: Colors.red),
+              Icon(Icons.person, size: 120, color: Colors.blueAccent),
               TextFormField(
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
                     labelText: "Peso (kg)",
-                    labelStyle: TextStyle(color: Colors.red)),
+                    labelStyle: TextStyle(color: Colors.lightBlueAccent, fontSize: 30)),
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.red, fontSize: 25.0),
+                style: TextStyle(color: Colors.blueGrey, fontSize: 25.0),
                 controller: pesoController,
                 validator: (value) {
                   if (value.isEmpty) return "Insira seu peso!";
@@ -86,9 +86,9 @@ class _HomeState extends State<Home> {
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
                     labelText: "Altura (cm)",
-                    labelStyle: TextStyle(color: Colors.red)),
+                    labelStyle: TextStyle(color: Colors.lightBlueAccent)),
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.red, fontSize: 25.0),
+                style: TextStyle(color: Colors.blueGrey, fontSize: 25.0),
                 controller: alturaController,
                 validator: (value) {
                   if (value.isEmpty) return "Insira sua altura!";
@@ -107,13 +107,13 @@ class _HomeState extends State<Home> {
                         "Calcular",
                         style: TextStyle(color: Colors.white, fontSize: 25.0),
                       ),
-                      color: Colors.red,
+                      color: Colors.blueGrey,
                     )),
               ),
               Text(
                 _textInfo,
                 textAlign: TextAlign.center,
-                style: TextStyle(color: Colors.red, fontSize: 25.0),
+                style: TextStyle(color: Colors.lightBlueAccent, fontSize: 30.0),
               )
             ], //<widget>[]
           ),
