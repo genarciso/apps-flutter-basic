@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a94ccde7-0f36-4f64-b898-36129e5181e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-    </list>
+    <list default="true" id="a94ccde7-0f36-4f64-b898-36129e5181e8" name="Default Changelist" comment="Criar segunda app&#10;&#10;Foi realizado a criação do segundo app, para o calculo do IMC. Nele foi realizado algumas estilizações" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +38,7 @@
     <property name="dart.analysis.tool.window.force.activate" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -56,6 +52,14 @@
       <option name="presentableId" value="Default" />
       <updated>1612831649681</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criar segunda app&#10;&#10;Foi realizado a criação do segundo app, para o calculo do IMC. Nele foi realizado algumas estilizações">
+      <created>1612836577078</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612836577078</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,22 +74,34 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criar segunda app&#10;&#10;Foi realizado a criação do segundo app, para o calculo do IMC. Nele foi realizado algumas estilizações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar segunda app&#10;&#10;Foi realizado a criação do segundo app, para o calculo do IMC. Nele foi realizado algumas estilizações" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1304" height="161" key="GridCell.Tab.0.bottom" timestamp="1612832698313">
+    <state x="466" y="122" width="424" height="478" key="FileChooserDialogImpl" timestamp="1612836657456">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1304" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612832698313" />
-    <state width="1304" height="161" key="GridCell.Tab.0.center" timestamp="1612832698311">
+    <state x="466" y="122" width="424" height="478" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1612836657456" />
+    <state width="1304" height="161" key="GridCell.Tab.0.bottom" timestamp="1612836661236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1304" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612832698311" />
-    <state width="1304" height="161" key="GridCell.Tab.0.left" timestamp="1612832698310">
+    <state width="1304" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612836661236" />
+    <state width="1304" height="161" key="GridCell.Tab.0.center" timestamp="1612836661236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1304" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612832698310" />
-    <state width="1304" height="161" key="GridCell.Tab.0.right" timestamp="1612832698313">
+    <state width="1304" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612836661236" />
+    <state width="1304" height="161" key="GridCell.Tab.0.left" timestamp="1612836661236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1304" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612832698313" />
+    <state width="1304" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612836661236" />
+    <state width="1304" height="161" key="GridCell.Tab.0.right" timestamp="1612836661236">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1304" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612836661236" />
+    <state x="278" y="100" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1612836584468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="278" y="100" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612836584468" />
   </component>
 </project>
