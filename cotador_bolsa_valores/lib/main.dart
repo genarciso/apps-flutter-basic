@@ -35,9 +35,8 @@ class _InicialState extends State<MyApp> {
     }
     if (text.length > 4) {
       simbolo = simboloController.text.toUpperCase();
-      getData(simbolo);
+      initState();
     }
-
   }
 
   Widget build(BuildContext context) {
@@ -90,9 +89,9 @@ class _InicialState extends State<MyApp> {
                       ),
                       Divider(),
                       Text(
-                        "R\$ "+_valorAcao.toString(),
-                        textAlign: TextAlign.center,
-                        style: TextStyle(color: Colors.green, fontSize: 30.0)
+                          "R\$ "+_valorAcao.toString(),
+                          textAlign: TextAlign.center,
+                          style: TextStyle(color: Colors.green, fontSize: 30.0)
                       )
                     ],
                   ),

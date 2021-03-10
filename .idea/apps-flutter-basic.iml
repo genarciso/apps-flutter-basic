@@ -7,6 +7,8 @@
       <excludeFolder url="file://$MODULE_DIR$/calculadora_imc/build" />
       <excludeFolder url="file://$MODULE_DIR$/contador_restaurante_flutter/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/contador_restaurante_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cotador_bolsa_valores/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cotador_bolsa_valores/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
