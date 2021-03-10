@@ -9,3 +9,7 @@
   Foi realizada um app básico, no qual consiste me calcular o IMC
     de cada pessoa, no qual é preciso informar o seus dados como altura e peso,
     com isso app lhe apresentará o resultado.
+
+## Aplicação 3: Cotador da bolsa IBOVESPA
+ Foi realizado um app, no qual captura o simbolo de uma ação e 
+  diz o valor real dela, consultando na API https://api.hgbrasil.com
